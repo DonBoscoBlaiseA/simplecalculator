@@ -195,9 +195,16 @@ public class MainActivity extends AppCompatActivity {
         resultTextView.setText(String.valueOf(result));
     }
 }
-```  
-## OUTPUT
-<img src="https://github.com/DonBoscoBlaiseA/simplecalculator/assets/140850829/52bd3f02-f488-4aaa-b8b4-994a04a3e0b1.png" height="600">
+```
+
+## OUTPUT 
+<img src="https://github.com/DonBoscoBlaiseA/simplecalculator/assets/140850829/55550a23-648e-4205-85b0-7ac50cca36f7.png" width="600">  
+
+<img src="https://github.com/DonBoscoBlaiseA/simplecalculator/assets/140850829/44a26c59-2701-433e-b27e-80657b4abad4.png" height="600">
+<img src="https://github.com/DonBoscoBlaiseA/simplecalculator/assets/140850829/09d2833d-b1aa-4ab1-8321-9b374b07c80f.png" height="600">
+<img src="https://github.com/DonBoscoBlaiseA/simplecalculator/assets/140850829/0d045f47-4b73-45f8-af50-0b43ab689ac0.png" height="600">
+<img src="https://github.com/DonBoscoBlaiseA/simplecalculator/assets/140850829/2ee5ccae-5ea9-4c5f-a16b-ef64ff6e8119.png" height="600">
+<img src="https://github.com/DonBoscoBlaiseA/simplecalculator/assets/140850829/6cfadd13-2c1c-485d-8573-6d7171376c16.png" height="600">
 
 ## RESULT
 Thus a Simple Android Application develop a program to create simple calculator in Android Studio is developed and executed successfully.
