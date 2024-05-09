@@ -1,4 +1,4 @@
-package com.example.exp9;
+package com.example.simplecalculator;
 
 import androidx.appcompat.app.AppCompatActivity;
 
